@@ -1,44 +1,39 @@
-# Hello, Hector Pulido is Here! 👋
+# Hola, Soy Luis Plata 👋
 
 
-`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>
+Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de mis paciones desde hace mas de 5 años que llevo en la industria; Y desde hace mas de 1 año apacionado por el desarrollo de videojuegos.
 
 
 <p align="center">
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/ai.md">🤖</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/gamedev.md">🎮</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/blockchain.md">🔑</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/backend.md">💻</a>
+<a href="https://github.com/LuisPlata/LuisPlata/blob/master/videogame.md">🎮</a>
+<a href="https://github.com/LuisPlata/LuisPlata/blob/master/backend.md">💻</a>
 </p>
 
 
-<a href="https://twitter.com/Hector_Pulido_">
-<img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
+<a href="https://twitter.com/PeryLoth">
+<img align="right" height="auto" width="200" src="https://luisplata.github.io/images/luisplata.jpg"/>
 </a>
 
 
-## Tech Stack ⌨
-- Python and Flask, Django ⭐
-- Pytorch ⭐
-- C# and .Net Technologies
-- Javascript and NodeJs
-- SQL and Relational Databases
-- Linux, AWS and Docker
-- Unity3D ⭐
-- Arduino and electronics
-- ASM for Pics
+## Habilidades ⌨
+- Java
+- C#
+- PHP
+- Javascript y NodeJs
+- SQL y Bases de datos relacionales
+- Unity3D
 
 
-## Awesome Projects 📚
-- [Evolutionary neural networks on unity for bots  🤖 🎮](https://github.com/HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots) 
-- [Unity battle royale game made with unity  🎮](https://github.com/HectorPulido/Unity-Battle-Royale-game-Made-With-Unity) 
-- [Multi layer perceptron  🤖](https://github.com/HectorPulido/Multi-layer-perceptron) 
-- [Unity mmo framework  🎮 💻](https://github.com/HectorPulido/Unity-MMO-Framework) 
-- [Worms like game made with unity  🎮](https://github.com/HectorPulido/Worms-like-game-made-with-unity) 
-- [Simple rts made with unity  🎮](https://github.com/HectorPulido/Simple-RTS-Made-With-Unity) 
-- [Mario maker like game made with unity  🎮](https://github.com/HectorPulido/Mario-maker-like-game-made-with-unity) 
-- [Chatbot seq2seq c   🤖](https://github.com/HectorPulido/Chatbot-seq2seq-C-) 
-- [Angry birds like game made with unity and c   🎮](https://github.com/HectorPulido/Angry-birds-like-game-made-with-UNITY-and-C-) 
+## Proyectos 📚
+- [Calculadorajs  💻](https://github.com/luisplata/CalculadoraJs) 
+- [Nabu ventas  💻](https://github.com/luisplata/Nabu-Ventas) 
+- [Feriadelasflores  🎮](https://github.com/luisplata/FeriaDeLasFlores) 
+- [Portafoliojugable  🎮](https://github.com/luisplata/PortafolioJugable) 
+- [Viva la vida  🎮](https://github.com/luisplata/viva-la-vida) 
+- [Apis_videogames  🎮 💻](https://github.com/luisplata/apis_videogames) 
+- [Paco  🎮](https://github.com/luisplata/PACO) 
+- [Juegodeunbotonparamoviles  🎮](https://github.com/luisplata/JuegoDeUnBotonParaMoviles) 
+- [Jugarpokemonportwitch  🎮](https://github.com/luisplata/JugarPokemonPorTwitch) 
 
 
 
@@ -46,21 +41,21 @@
 
 <p align="center">
 <a href="#user-30538313-pinned-items-reorder-form">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorPulido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Hector's Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Luisplata&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Hector's Github Stats"/>
 </a>
 </p>
 
 <div align="center">
-<h3 align="center">Let's connect 😋</h3>
+<h3 align="center">Redes Sociales 😋</h3>
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/hector-pulido-17547369/" target="blank">
-<img align="center" width="30px" alt="Hector's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
-<a href="https://twitter.com/Hector_Pulido_" target="blank">
+<a href="https://www.linkedin.com/in/luis-plata-75838469/" target="blank">
+<img align="center" width="30px" alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
+<a href="https://twitter.com/PeryLoth" target="blank">
 <img align="center" width="30px" alt="Hector's Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.twitch.tv/hector_pulido_" target="blank">
+<a href="https://www.twitch.tv/PeryLoth" target="blank">
 <img align="center" width="30px" alt="Hector's Twitch" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw" target="blank">
+<a href="https://www.youtube.com/channel/UClApRZQ7zK2gHTuGRBDF2bA" target="blank">
 <img align="center" width="30px" alt="Hector's Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
 
 </p>
