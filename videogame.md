@@ -1,4 +1,4 @@
-# Hector Pulido's Backend projects! 👋
+# Hector Pulido's GameDev projects! 👋
 
 
 `Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>
@@ -15,23 +15,23 @@
 </a>
 
 
-## Backend Projects 💻
-- [Calculadorajs  💻](https://github.com/luisplata/CalculadoraJs) 
-- [Nabu ventas  💻](https://github.com/luisplata/Nabu-Ventas) 
+## GameDev Projects 🎮
+- [Feriadelasflores  🎮](https://github.com/luisplata/FeriaDeLasFlores) 
+- [Portafoliojugable  🎮](https://github.com/luisplata/PortafolioJugable) 
+- [Viva la vida  🎮](https://github.com/luisplata/viva-la-vida) 
 - [Apis_videogames  🎮 💻](https://github.com/luisplata/apis_videogames) 
-- [Portaldepost  💻](https://github.com/luisplata/portalDePost) 
-- [Clubdelapeleapokemon  💻](https://github.com/luisplata/ClubDeLaPeleaPokemon) 
-- [Server_blog  💻](https://github.com/luisplata/server_blog) 
-- [Mensajeswp  💻](https://github.com/luisplata/mensajesWP) 
-- [Server streaming  💻](https://github.com/luisplata/server-streaming) 
-- [Buscadorderutas  💻](https://github.com/luisplata/BuscadorDeRutas) 
-- [Migracionesbuscadorrutas  💻](https://github.com/luisplata/migracionesBuscadorRutas) 
-- [Tellevo.com  💻](https://github.com/luisplata/tellevo.com) 
-- [P2_v2  💻](https://github.com/luisplata/p2_v2) 
-- [Metodosnumericos  💻](https://github.com/luisplata/MetodosNumericos) 
-- [Proyectodegradodeingenieriadesistemasbackend  💻](https://github.com/luisplata/ProyectoDeGradoDeIngenieriaDeSistemasBackEnd) 
-- [Deliverycartagenaserver  💻](https://github.com/luisplata/DeliveryCartagenaServer) 
-- [Nabuadministrador  💻](https://github.com/luisplata/NabuAdministrador) 
+- [Paco  🎮](https://github.com/luisplata/PACO) 
+- [Juegodeunbotonparamoviles  🎮](https://github.com/luisplata/JuegoDeUnBotonParaMoviles) 
+- [Jugarpokemonportwitch  🎮](https://github.com/luisplata/JugarPokemonPorTwitch) 
+- [Juego aprender matematicas  🎮](https://github.com/luisplata/juego-aprender-matematicas) 
+- [Juegodecartasquejueganaldestino  🎮](https://github.com/luisplata/JuegoDeCartasQueJueganAlDestino) 
+- [Juegodemisterio  🎮](https://github.com/luisplata/JuegoDeMisterio) 
+- [Tiro_potenciado  🎮](https://github.com/luisplata/tiro_potenciado) 
+- [Galaga1981  🎮](https://github.com/luisplata/galaga1981) 
+- [Pacman1981  🎮](https://github.com/luisplata/pacman1981) 
+- [Jinetes del crucero  🎮](https://github.com/luisplata/jinetes-del-crucero) 
+- [Orco_vs_pato unity  🎮](https://github.com/luisplata/Orco_Vs_Pato-Unity) 
+- [Robotconsumidordetrabajodegradodeingenieriadesistemas  🎮](https://github.com/luisplata/RobotConsumidorDeTrabajoDeGradoDeIngenieriaDeSistemas) 
 
 
 
