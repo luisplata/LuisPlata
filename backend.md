@@ -16,8 +16,8 @@ Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de m
 
 
 ## Backend Projects 💻
-- [Calculadorajs  💻](https://github.com/luisplata/CalculadoraJs) 
 - [Nabu ventas  💻](https://github.com/luisplata/Nabu-Ventas) 
+- [Calculadorajs  💻](https://github.com/luisplata/CalculadoraJs) 
 - [Apis_videogames  🎮 💻](https://github.com/luisplata/apis_videogames) 
 - [Portaldepost  💻](https://github.com/luisplata/portalDePost) 
 - [Clubdelapeleapokemon  💻](https://github.com/luisplata/ClubDeLaPeleaPokemon) 
