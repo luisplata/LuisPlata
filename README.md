@@ -27,13 +27,13 @@ Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de m
 ## Proyectos 📚
 - [Calculadorajs  💻](https://github.com/luisplata/CalculadoraJs) 
 - [Feriadelasflores  🎮](https://github.com/luisplata/FeriaDeLasFlores) 
+- [Juegodecartasquejueganaldestino  🎮](https://github.com/luisplata/JuegoDeCartasQueJueganAlDestino) 
 - [Paco  🎮](https://github.com/luisplata/PACO) 
 - [Apis_videogames  🎮 💻](https://github.com/luisplata/apis_videogames) 
 - [Galaga1981  🎮](https://github.com/luisplata/galaga1981) 
 - [Pacman1981  🎮](https://github.com/luisplata/pacman1981) 
 - [Tiro_potenciado  🎮](https://github.com/luisplata/tiro_potenciado) 
 - [Jinetes del crucero  🎮](https://github.com/luisplata/jinetes-del-crucero) 
-- [Platzigamejamq1  🎮](https://github.com/luisplata/PlatziGameJamQ1) 
 
 
 
