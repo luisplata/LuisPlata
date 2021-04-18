@@ -79,20 +79,27 @@
                     "image": "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
                 },
                 {
-                    "alt": "Hector's Twitter",
+                    "alt": "PeryLoth's Twitter",
                     "url": "https://twitter.com/PeryLoth",
                     "image": "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
                 },
                 {
-                    "alt": "Hector's Twitch",
+                    "alt": "PeryLoth's Twitch",
                     "url": "https://www.twitch.tv/PeryLoth",
                     "image": "https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"
                 },
                 {
-                    "alt": "Hector's Youtube",
+                    "alt": "Bellseboss's Youtube",
                     "url": "https://www.youtube.com/channel/UClApRZQ7zK2gHTuGRBDF2bA",
                     "image": "https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
+                },
+                {
+                    "alt": "Bellseboss's Patreon",
+                    "url": "https://www.patreon.com/bellseboss",
+                    "image": "https://www.vectorlogo.zone/logos/patreon/patreon-tile.svg"
                 }
+                
+                
             ]
         }
     }
