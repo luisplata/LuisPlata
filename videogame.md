@@ -19,9 +19,9 @@ Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de m
 - [Portafoliojugable  🎮](https://github.com/luisplata/PortafolioJugable) 
 - [Feriadelasflores  🎮](https://github.com/luisplata/FeriaDeLasFlores) 
 - [Viva la vida  🎮](https://github.com/luisplata/viva-la-vida) 
+- [Apis_videogames  🎮 💻](https://github.com/luisplata/apis_videogames) 
 - [Paco  🎮](https://github.com/luisplata/PACO) 
 - [Juegodecartasquejueganaldestino  🎮](https://github.com/luisplata/JuegoDeCartasQueJueganAlDestino) 
-- [Apis_videogames  🎮 💻](https://github.com/luisplata/apis_videogames) 
 - [Galaga1981  🎮](https://github.com/luisplata/galaga1981) 
 - [Pacman1981  🎮](https://github.com/luisplata/pacman1981) 
 - [Tiro_potenciado  🎮](https://github.com/luisplata/tiro_potenciado) 
@@ -30,7 +30,6 @@ Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de m
 - [Visualnovel  🎮](https://github.com/luisplata/VisualNovel) 
 - [Juegodeunbotonparamoviles  🎮](https://github.com/luisplata/JuegoDeUnBotonParaMoviles) 
 - [Jugarpokemonportwitch  🎮](https://github.com/luisplata/JugarPokemonPorTwitch) 
-- [Juego aprender matematicas  🎮](https://github.com/luisplata/juego-aprender-matematicas) 
 - [Juegodemisterio  🎮](https://github.com/luisplata/JuegoDeMisterio) 
 - [Robotconsumidordetrabajodegradodeingenieriadesistemas  🎮](https://github.com/luisplata/RobotConsumidorDeTrabajoDeGradoDeIngenieriaDeSistemas) 
 

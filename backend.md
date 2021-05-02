@@ -20,17 +20,9 @@ Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de m
 - [Calculadorajs  💻](https://github.com/luisplata/CalculadoraJs) 
 - [Apis_videogames  🎮 💻](https://github.com/luisplata/apis_videogames) 
 - [Portaldepost  💻](https://github.com/luisplata/portalDePost) 
-- [Clubdelapeleapokemon  💻](https://github.com/luisplata/ClubDeLaPeleaPokemon) 
-- [Server_blog  💻](https://github.com/luisplata/server_blog) 
 - [Mensajeswp  💻](https://github.com/luisplata/mensajesWP) 
-- [Server streaming  💻](https://github.com/luisplata/server-streaming) 
-- [Buscadorderutas  💻](https://github.com/luisplata/BuscadorDeRutas) 
-- [Migracionesbuscadorrutas  💻](https://github.com/luisplata/migracionesBuscadorRutas) 
-- [Tellevo.com  💻](https://github.com/luisplata/tellevo.com) 
 - [P2_v2  💻](https://github.com/luisplata/p2_v2) 
-- [Metodosnumericos  💻](https://github.com/luisplata/MetodosNumericos) 
 - [Proyectodegradodeingenieriadesistemasbackend  💻](https://github.com/luisplata/ProyectoDeGradoDeIngenieriaDeSistemasBackEnd) 
-- [Deliverycartagenaserver  💻](https://github.com/luisplata/DeliveryCartagenaServer) 
 - [Nabuadministrador  💻](https://github.com/luisplata/NabuAdministrador) 
 
 
