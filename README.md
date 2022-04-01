@@ -11,7 +11,7 @@ Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de m
 
 
 <a href="https://twitter.com/PeryLoth">
-<img align="right" height="auto" width="200" src="https://luisplata.github.io/images/Profile.jpg"/>
+<img align="right" height="auto" width="200" src="https://luisplata.github.io/images/luisplata.jpg"/>
 </a>
 
 
@@ -25,6 +25,7 @@ Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de m
 
 
 ## Proyectos 📚
+- [Pruebatecnicalitgm  🎮](https://github.com/luisplata/PruebaTecnicaLitgm) 
 - [Galaga1981  🎮](https://github.com/luisplata/galaga1981) 
 - [Apis_videogames  🎮 💻](https://github.com/luisplata/apis_videogames) 
 - [Thelasthope  🎮](https://github.com/luisplata/TheLastHope) 
@@ -33,7 +34,6 @@ Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de m
 - [Pacman1981  🎮](https://github.com/luisplata/pacman1981) 
 - [Tiro_potenciado  🎮](https://github.com/luisplata/tiro_potenciado) 
 - [Jinetes del crucero  🎮](https://github.com/luisplata/jinetes-del-crucero) 
-- [Platzigamejamq1  🎮](https://github.com/luisplata/PlatziGameJamQ1) 
 
 
 

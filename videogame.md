@@ -16,6 +16,7 @@ Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de m
 
 
 ## GameDev Projects 🎮
+- [Pruebatecnicalitgm  🎮](https://github.com/luisplata/PruebaTecnicaLitgm) 
 - [Galaga1981  🎮](https://github.com/luisplata/galaga1981) 
 - [Apis_videogames  🎮 💻](https://github.com/luisplata/apis_videogames) 
 - [Thelasthope  🎮](https://github.com/luisplata/TheLastHope) 
