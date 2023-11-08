@@ -3,7 +3,6 @@
 
 Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de mis paciones desde hace mas de 5 años que llevo en la industria; Y desde hace mas de 1 año apacionado por el desarrollo de videojuegos.
 
-
 <p align="center">
 <a href="https://github.com/LuisPlata/LuisPlata/blob/master/videogame.md">🎮</a>
 <a href="https://github.com/LuisPlata/LuisPlata/blob/master/backend.md">💻</a>
