@@ -10,7 +10,7 @@ Ingeniero de Sistemas, Desarrollador de software, GameDev. Programar es una de m
 
 
 <a href="https://twitter.com/PeryLoth">
-<img align="right" height="auto" width="200" src="https://luisplata.github.io/images/Profile.jpg"/>
+<img align="right" height="auto" width="200" src="[https://luisplata.github.io/images/Profile.jpg](https://avatars.githubusercontent.com/u/9086926)"/>
 </a>
 
 
