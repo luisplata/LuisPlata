@@ -10,39 +10,36 @@ on:
     branches: [ master, main ]
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          set-safe-directory: true
+
       - uses: actions/setup-python@v2
         with:
-          python-version: '3.11.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
-          architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
-          
-        # Add this step to mark the directory as safe
+          python-version: '3.11.x'
+          architecture: 'x64'
+
+      # Add this step to mark the directory as safe
       - name: Mark /github/workspace as safe directory
         run: git config --global --add safe.directory /github/workspace
 
-      # Runs a set of commands using the runners shell
       - name: Generate static files
         run: |
           cd ReadmeGenerator
           pip install -r requirements.txt
           python main.py
           cd ..
-          
+
       - name: Commit changes
         run: |
           git add -A
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m 'deploy' 
-      # Upload static files to master
+          git commit -m 'deploy'
+
       - name: Force push to master
         uses: ad-m/github-push-action@v0.5.0
         with:
