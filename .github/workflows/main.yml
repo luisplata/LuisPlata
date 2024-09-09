@@ -13,6 +13,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Add this step to mark the directory as safe
+      - name: Mark /github/workspace as safe directory
+        run: git config --global --add safe.directory /github/workspace
+
       - uses: actions/checkout@v2
         with:
           set-safe-directory: true
@@ -21,10 +25,6 @@ jobs:
         with:
           python-version: '3.11.x'
           architecture: 'x64'
-
-      # Add this step to mark the directory as safe
-      - name: Mark /github/workspace as safe directory
-        run: git config --global --add safe.directory /github/workspace
 
       - name: Generate static files
         run: |
