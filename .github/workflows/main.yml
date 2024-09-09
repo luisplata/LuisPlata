@@ -23,6 +23,10 @@ jobs:
         with:
           python-version: '3.11.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
           architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+          
+        # Add this step to mark the directory as safe
+      - name: Mark /github/workspace as safe directory
+        run: git config --global --add safe.directory /github/workspace
 
       # Runs a set of commands using the runners shell
       - name: Generate static files
