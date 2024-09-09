@@ -39,6 +39,14 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          set-safe-directory: true
+
+      - name: Mark /github/workspace as safe directory
+        run: git config --global --add safe.directory /github/workspace
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
@@ -49,6 +57,14 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          set-safe-directory: true
+
+      - name: Mark /github/workspace as safe directory
+        run: git config --global --add safe.directory /github/workspace
+
       - name: Force push to master
         uses: ad-m/github-push-action@v0.5.0
         with:
@@ -61,6 +77,14 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          set-safe-directory: true
+
+      - name: Mark /github/workspace as safe directory
+        run: git config --global --add safe.directory /github/workspace
+
       - name: Force push to main
         uses: ad-m/github-push-action@v0.5.0
         with:
