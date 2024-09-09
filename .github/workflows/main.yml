@@ -1,22 +1,14 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
 
-# Controls when the action will run. 
 on:
   workflow_dispatch: {}
-  # Triggers the workflow on push or pull request events but only for the master branch
   push:
     branches: [ master, main ]
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Add this step to mark the directory as safe
-      - name: Mark /github/workspace as safe directory
-        run: git config --global --add safe.directory /github/workspace
-
       - uses: actions/checkout@v2
         with:
           set-safe-directory: true
@@ -25,6 +17,9 @@ jobs:
         with:
           python-version: '3.11.x'
           architecture: 'x64'
+
+      - name: Mark /github/workspace as safe directory
+        run: git config --global --add safe.directory /github/workspace
 
       - name: Generate static files
         run: |
@@ -40,6 +35,20 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -m 'deploy'
 
+  push_changes:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+  force_push_master:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
       - name: Force push to master
         uses: ad-m/github-push-action@v0.5.0
         with:
@@ -48,7 +57,10 @@ jobs:
           force: true
           directory: ./
 
-      # Upload static files to main
+  force_push_main:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
       - name: Force push to main
         uses: ad-m/github-push-action@v0.5.0
         with:
